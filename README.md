@@ -2,7 +2,7 @@
 
 **Your AI-powered sales operating system.** Feed Claude your business context — it builds, audits, and optimizes your entire LinkedIn + email outreach pipeline.
 
-Built from 18,000+ real LinkedIn DMs, 6 years of email marketing data, and $20M+ in generated pipeline.
+Built from 18,000+ real LinkedIn DMs, 6 years of email marketing data, and $5M+ in generated pipeline.
 
 ---
 
